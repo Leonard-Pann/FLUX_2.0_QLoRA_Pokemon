@@ -1,0 +1,16 @@
+[project]
+name = "Pokemon_Lora"
+version = "0.1.0"
+dependencies = [
+    "transformers>=5.7.0",
+    "peft>=0.19.1",
+    "diffusers>=0.38.0",
+    "matplotlib>=3.10.9",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = []
