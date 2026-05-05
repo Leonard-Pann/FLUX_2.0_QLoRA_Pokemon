@@ -6,6 +6,7 @@ dependencies = [
     "peft>=0.19.1",
     "diffusers>=0.38.0",
     "matplotlib>=3.10.9",
+    "openai>=2.34.0",
 ]
 
 [build-system]
