@@ -1,3 +1,7 @@
 .venv
 Pokemon_Lora.egg-info
 images/*
+models/diffusion_model/*
+models/text_encoder/*
+models/vae/*
+config.json
